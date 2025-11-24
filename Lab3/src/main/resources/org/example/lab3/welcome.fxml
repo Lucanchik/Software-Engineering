@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="155.0" prefWidth="226.0" style="-fx-background-color: #171717;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+
+    <Label layoutX="86.0" layoutY="69.0" prefHeight="17.0" prefWidth="55.0" text="Welcome!" textAlignment="CENTER" textFill="#f7a523" />
+</AnchorPane>
